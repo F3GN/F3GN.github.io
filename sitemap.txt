@@ -1,3 +1,5 @@
+http://example.com/tags/
+http://example.com/categories/
 http://example.com/school/amazon
 http://example.com/posts/4a17b156/
 http://example.com/
