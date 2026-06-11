@@ -1,6 +1,6 @@
-http://example.com/posts/4a17b156/
-http://example.com/tags/
-http://example.com/tags/index-1
-http://example.com/categories/
-http://example.com/school/amazon
-http://example.com/
+http://f3gn.github.io/posts/4a17b156/
+http://f3gn.github.io/tags/
+http://f3gn.github.io/tags/index-1
+http://f3gn.github.io/categories/
+http://f3gn.github.io/school/amazon
+http://f3gn.github.io/
